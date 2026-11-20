@@ -442,6 +442,10 @@ main.viewer-split {
     font-weight: 500;
 }
 
+.welcome-content a {
+    color: rgba(120, 180, 255, 0.95);
+}
+
 .welcome-content ul {
     text-align: left;
     list-style: none;
